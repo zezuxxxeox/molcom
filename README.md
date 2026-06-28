@@ -1,6 +1,6 @@
-# AI Privacy Guard
+# molcom
 
-웹캠에 본인 외 인물이 0.2초 이상 연속 감지되면 보호 화면을 띄우거나 지정한 창을 앞으로 가져오는 Windows용 Python MVP입니다.
+AI Privacy Guard는 웹캠에 본인 외 인물이 0.2초 이상 연속 감지되면 보호 화면을 띄우거나 지정한 창을 앞으로 가져오는 Windows용 Python MVP입니다.
 
 ## 실행
 
